@@ -1,0 +1,15 @@
+{
+  "name": "r3-portal",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "v1.11.1",
+    "bootstrap": "v3.3.1",
+    "babel": "*",
+    "jquery-ui": "v1.11.4",
+    "marked": "v0.3.5",
+    "react": "v15.1.0",
+    "font-awesome": "Font-Awesome#v4.6.3",
+    "spin.js": "spin-js#~2.0.1",
+    "d3": "~3.5.17"
+  }
+}
