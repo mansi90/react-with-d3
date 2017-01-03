@@ -1,25 +1,32 @@
-.gradle
-/build/
+.gradle/
+build/
 !gradle/wrapper/gradle-wrapper.jar
 
-### STS ###
-.apt_generated
+out/
+/classes/
 .classpath
-.factorypath
 .project
-.settings
-.springBeans
-
-### IntelliJ IDEA ###
-.idea
+test/data
 *.iws
+.settings
+stacktrace.log
+/*.zip
+/plugin.xml
+/*.log
+/target/
+/out/
+/target-eclipse/
+c.tld
+fmt.tld
+
+# IntelliJ IDEA files below
 *.iml
 *.ipr
-
-### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
+.idea/
+.sass-cache/
+/bin/
+.asscache
+bower_components
+node_modules
+src/assets/stylesheets/vendors
+/src/assets/javascripts/vendors
